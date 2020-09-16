@@ -4,114 +4,78 @@
   "model"  : "UE40F6400AK",
   "chasis" : "U85A",
   
-  "ssb": [
+  "ssb":[
     {
-      "pns": [
-        "BN41-01958A",
-        "BN94-06555H"
-      ]
+      "pns":[ "BN41-01958A", "BN94-06555H" ]
     }
   ],
   
   "psu": [
     {
-      "pns": [
-        "BN44-00622B"
-      ]
+      "pns": [ "BN44-00622B" ]
     }
   ],
   
   "tcn": [
     {
-      "pns": [
-        "BN41-01939B",
-        "LSF400HF02"
-      ]
+      "pns": [ "BN41-01939B", "LSF400HF02" ]
     },
     {
-      "pns": [
-        "BN41-01939A",
-        "LSF400HJ01"
-      ]
+      "pns": [ "BN41-01939A", "LSF400HJ01" ]
     }
   ],
   
   "bkl": [
     {
-      "pns": [
-        "D2GE-400SCA-R3",
-        "D2GE-400SCB-R3"
-      ]
+      "pns": [ "D2GE-400SCA-R3", "D2GE-400SCB-R3" ]
     }
   ],
   
   "pnl": [
     {
-      "pns": [
-        "CY-HF400CSLV2V",
-        "CY-HF400CSLV1V"
-      ]
+      "pns": [ "CY-HF400CSLV2V", "CY-HF400CSLV1V" ]
     }
   ],
   
   "ir": [
     {
-      "pns": [
-        "BN41-01976B",
-        "BN96-26401N"
-      ]
+      "pns": [ "BN41-01976B", "BN96-26401N" ]
     }
   ],
   
   "btn": [
     {
-      "pns": [
-        "BN41-01976B",
-        "BN96-26401N"
-      ]
+      "pns": [ "BN41-01976B", "BN96-26401N" ]
     }
   ],
   
   "wlan": [
     {
-      "pns": [
-        "BN59-01161A",
-        "WIDT30Q"
-      ]
+      "pns": [ "BN59-01161A", "WIDT30Q" ]
     }
   ],
   
   "bt": [
     {
-      "pns": [
-        "BN96-25376A",
-        "WIBT40A"
-      ]
+      "pns": [ "BN96-25376A", "WIBT40A" ]
     }
   ],
   
   "dyn": [
     {
-      "pns": [
-        "BN96-25565A"
-      ]
+      "pns": [ "BN96-25565A" ]
     }
   ],
   
   "tun": [
     {
-      "pns": [
-        "BN40-00262B",
-        "GT2CX-3S/K3S"
-      ]
+      "pns": [ "BN40-00262B", "GT2CX-3S/K3S" ]
     }
   ],
   
   "lvds": [
     {
-      "pns": [
-        "BN96-27044H"
-      ]
+      "pns": [ "BN96-27044H" ]
     }
   ],
 }
